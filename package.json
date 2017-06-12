@@ -11,9 +11,9 @@
   },
   "author": "Concierge Auctions <brad.decker@conciergeauctions.com>",
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/ConciergeAuctions/mongoose-babelmodel"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConciergeAuctions/mongoose-babelmodel"
   },
   "devDependencies": {
     "babel": "^5.2.15",
